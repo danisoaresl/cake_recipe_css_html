@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: #535353;
+    padding: 0.5rem;
+}
+
+h1, h2{
+    background-color: pink;
+    padding: 10px;
+    color: black;
+    
+}
+
+h1{
+    margin:0px;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+ol,ul{
+    line-height: 40px;
+}
+
+.btn-youtube{
+    background-color: pink;
+    color: black;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
