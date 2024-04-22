@@ -1,3 +1,1 @@
-# receita_bolo_chocolate
-
-# exercício Elas na Tech
+Elas na Tech
